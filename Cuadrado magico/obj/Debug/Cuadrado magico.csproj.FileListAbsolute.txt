@@ -1,0 +1,14 @@
+C:\Users\hecto\source\repos\Cuadrado magico\Cuadrado magico\obj\Debug\Cuadrado magico.csprojAssemblyReference.cache
+C:\Users\hecto\source\repos\Cuadrado magico\Cuadrado magico\obj\Debug\Cuadrado magico.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\Cuadrado magico\Cuadrado magico\bin\Debug\Cuadrado magico.exe.config
+C:\Users\hecto\source\repos\Cuadrado magico\Cuadrado magico\bin\Debug\Cuadrado magico.exe
+C:\Users\hecto\source\repos\Cuadrado magico\Cuadrado magico\bin\Debug\Cuadrado magico.pdb
+C:\Users\hecto\source\repos\Cuadrado magico\Cuadrado magico\obj\Debug\Cuadrado magico.exe
+C:\Users\hecto\source\repos\Cuadrado magico\Cuadrado magico\obj\Debug\Cuadrado magico.pdb
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\Cuadrado magico\Cuadrado magico\bin\Debug\Cuadrado magico.exe.config
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\Cuadrado magico\Cuadrado magico\bin\Debug\Cuadrado magico.exe
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\Cuadrado magico\Cuadrado magico\bin\Debug\Cuadrado magico.pdb
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\Cuadrado magico\Cuadrado magico\obj\Debug\Cuadrado magico.csprojAssemblyReference.cache
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\Cuadrado magico\Cuadrado magico\obj\Debug\Cuadrado magico.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\Cuadrado magico\Cuadrado magico\obj\Debug\Cuadrado magico.exe
+D:\Nueva carpeta\discoD\TRIMESTRES SENA\SENA 1\Cuadrado magico\Cuadrado magico\obj\Debug\Cuadrado magico.pdb
